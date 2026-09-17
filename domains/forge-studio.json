@@ -4,6 +4,6 @@
     "email": "mc5546744@gmail.com"
   },
   "records": {
-    "CNAME": "forge-studio-4482.onrender.com"
+    "A": ["216.24.57.1"]
   }
 }
